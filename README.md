@@ -8,15 +8,12 @@
 
  Starting a new journey on Upwork as a Freelance Software Engineer, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://mysite-76d.pages.dev/"><strong>➥ Live Demo</strong></a>
+  <a href=""><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
-
-![Annie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 
 
